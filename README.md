@@ -1,2 +1,3 @@
 # hello-World
-first repository for shool
+repository for shool
+/edited description
